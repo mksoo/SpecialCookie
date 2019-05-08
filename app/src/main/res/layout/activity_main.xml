@@ -25,7 +25,7 @@
 
 
         <ImageButton
-            android:id="@+id/imageButton"
+            android:id="@+id/Cookie"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -37,7 +37,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/gingerbread_common" />
+            app:srcCompat="@drawable/imgbtn_states" />
     </android.support.constraint.ConstraintLayout>
 
     <LinearLayout
